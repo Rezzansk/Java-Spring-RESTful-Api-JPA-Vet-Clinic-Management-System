@@ -8,7 +8,8 @@ This project has been designed in order to meet the necessity of clinic operatio
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right: | Java Spring RESTful Api, Spring Security, Spring-JPA, Spring-Validation |
 | SQL | :arrow_right: | MySQL |
-| Technologies | :arrow_right: | Postman, Swagger, Log4j, Regex |
+| Technologies | :arrow_right: | Redis, Elasticsearch, Log4j, Regex |
+| Documentation | :arrow_right: | Postman, Swagger |
 
 
 ## Available Roles For Demo Account
