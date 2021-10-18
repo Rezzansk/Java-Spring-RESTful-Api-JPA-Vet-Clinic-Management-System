@@ -1,6 +1,6 @@
 # Java Spring RESTful Api Vet Clinic Management System
 
-This project has been designed in order to meet the necessity of clinic operation demands and carry out the procedures in a fast and practical way.
+This project has been designed in order to meet the necessity of clinic operation demands and carry out the procedures in a fast and practical way. The REST API service of the "Veterinary Clinic Management System - Spring MVC" project. Addition to the MVC project, ElasticSearch, Redis and Swagger were used.
 
 ## Technologies Libraries and Frameworks
 
